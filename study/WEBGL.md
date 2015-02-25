@@ -2,26 +2,25 @@
 
 ## 구현하고 싶은 것
 
-[ACNPL\WGL - ACTIVATION NODEPLUS Lab, a digital real-time graphic handicraft.](http://www.acnplwgl.com/#!/clouds-painting)
+[ACNPL\WGL - ACTIVATION NODEPLUS Lab, a digital real-time graphic handicraft.](http://www.acnplwgl.com/#!/clouds-painting)  
 ![](http://kmyh.kr/markdown_images/ACNPLWGL_-_ACTIVATION_NODEPLUS_Lab_a_digital_real-time_graphic_handicraft._2015-02-25_01-05-58.jpg)
 
-[POTEMKIN](http://www.potemkin.se/)
+[POTEMKIN](http://www.potemkin.se/)  
 ![](http://kmyh.kr/markdown_images/potemkin.se_2015-02-25_01-13-32.jpg)
 
-[Soulwire » Experiments in Code](http://soulwire.co.uk/experiments/unwrapageddon/)
+[Soulwire » Experiments in Code](http://soulwire.co.uk/experiments/unwrapageddon/)  
 ![](http://kmyh.kr/markdown_images/Soulwire__Experiments_in_Code_2015-02-25_01-11-32.jpg)
 
 [sketch.js](http://soulwire.github.io/sketch.js/)
 
-[sketch.js » Basic Example](http://soulwire.github.io/sketch.js/examples/particles.html)
-이 예제가 괜찮네.
+[sketch.js » Basic Example](http://soulwire.github.io/sketch.js/examples/particles.html) 이 예제가 괜찮네.  
 ![](http://kmyh.kr/markdown_images/particles.jpg)
 
 **Sam Lapere**  
+
 [Projects - Made by Evan](http://www.madebyevan.com/) WebGL water를 만든 사람이네.  
 [Ray Tracey's blog](http://raytracey.blogspot.kr/) 이사람의 블로그다.  
 이사람이 만든 [glfx.js](http://evanw.github.io/glfx.js/demo/)를 적용한 [evanw/webgl-filter](https://github.com/evanw/webgl-filter)를 보면 포토샵 수준이다.  
-
 ![](http://kmyh.kr/markdown_images/Projects_-_Made_by_Evan_2015-02-25_01-15-00.jpg)
 
 # LIBRARY
@@ -35,7 +34,7 @@ http://idflood.github.io/ThreeNodes.js/ 는 쿼츠컴포저 느낌이 드는 노
 
 ## 공부자료
 
-- [webgl study |](http://www.bswebgl.com/?cat=22)
+- [webgl study |](http://www.bswebgl.com/?cat=22)  
 ![](http://kmyh.kr/markdown_images/webgl_study__2015-02-25_01-16-10.jpg)
 
 
