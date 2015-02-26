@@ -8,13 +8,13 @@ allow에 false인자가 들어오면 실행이 안된다.
 
 ## LINKS
 
-[Meteor Korea](http://www.meteorjs.kr/)
-[Meteor 1.0.2.1 Documentation](http://docs.meteor.com/#/full/quickstart)
-[Meteor 0.9.1.1](http://kr-docs.meteor.com/)
-[discovery 소스](https://github.com/SachaG/Microscope)
-[Development – Jason Im](http://jasonim.me/category/dev)
-[강좌와 팁 - meteor - collection2 패키지 README 번역...](http://forum.falinux.com/zbxe/index.php?mid=lecture_tip&document_srl=828069)
-[6 Must-Use Meteor Packages for (Almost) Every Project](http://www.sitepoint.com/6-must-use-meteor-packages-almost-every-project/)
+- [Meteor Korea](http://www.meteorjs.kr/)
+- [Meteor 1.0.2.1 Documentation](http://docs.meteor.com/#/full/quickstart)
+- [Meteor 0.9.1.1](http://kr-docs.meteor.com/)
+- [discovery 소스](https://github.com/SachaG/Microscope)
+- [Development – Jason Im](http://jasonim.me/category/dev)
+- [강좌와 팁 - meteor - collection2 패키지 README 번역...](http://forum.falinux.com/zbxe/index.php?mid=lecture_tip&document_srl=828069)
+- [6 Must-Use Meteor Packages for (Almost) Every Project](http://www.sitepoint.com/6-must-use-meteor-packages-almost-every-project/)
 
 ## 메서드 호출 대 클라이언트에서의 데이터 가공
 메서드 호출은 다음의 몇 가지 시나리오에서 더 적합하다:
@@ -172,8 +172,12 @@ meteor mongo
 
 
 
+## MONGODB
+[MongoDB를 쓰면서 알게 된 것들 | Bigmatch](http://bigmatch.i-um.net/2013/12/mongodb%EB%A5%BC-%EC%93%B0%EB%A9%B4%EC%84%9C-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4/)
+[Mongo DB 완벽가이드 - 4장 쿼리하기](http://www.slideshare.net/niddo/mongo-d-b)
 
-In[ ]:
 
-
+## router & publish
+find()는 router 에서
+data handling은 (template) helper에서
 
